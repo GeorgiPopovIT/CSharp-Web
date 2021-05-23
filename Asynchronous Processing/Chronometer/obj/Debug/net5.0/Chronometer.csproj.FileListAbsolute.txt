@@ -1,0 +1,16 @@
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\Chronometer.exe
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\Chronometer.deps.json
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\Chronometer.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\Chronometer.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\Chronometer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\ref\Chronometer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\bin\Debug\net5.0\Chronometer.pdb
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\ref\Chronometer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.pdb
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\Chronometer\obj\Debug\net5.0\Chronometer.genruntimeconfig.cache
