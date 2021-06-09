@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gy9ZvDhCSuhnqVAJIS/ds4IhufVYDRDfHAaK5amL/tSsYNzGOl7kR7MSXwz07XIF1ZdPRGitQXHqPeZeKbeVJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Georges\\Desktop\\CSharp-Web\\Workshops\\07. CSharp-Web-Basics-Workshop-Simple-MVC-Framework-Resources\\08. Web-Dev-Basics-Introduction-To-MVC\\WebServer\\WebServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Georges\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Georges\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Georges\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Georges\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Georges\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Georges\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

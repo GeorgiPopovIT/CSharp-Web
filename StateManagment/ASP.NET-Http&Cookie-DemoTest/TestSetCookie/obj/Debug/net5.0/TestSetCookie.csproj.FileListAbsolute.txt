@@ -1,0 +1,16 @@
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\TestSetCookie.exe
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\TestSetCookie.deps.json
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\TestSetCookie.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\TestSetCookie.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\TestSetCookie.dll
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\ref\TestSetCookie.dll
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\bin\Debug\net5.0\TestSetCookie.pdb
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.dll
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\ref\TestSetCookie.dll
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.pdb
+C:\Users\Georges\Desktop\CSharp-Web\StateManagment\ASP.NET-Http&Cookie-DemoTest\TestSetCookie\obj\Debug\net5.0\TestSetCookie.genruntimeconfig.cache

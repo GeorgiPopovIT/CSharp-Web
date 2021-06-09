@@ -1,0 +1,15 @@
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\bin\Debug\net5.0\SIS.WebServer.deps.json
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\bin\Debug\net5.0\SIS.WebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\bin\Debug\net5.0\ref\SIS.WebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\bin\Debug\net5.0\SIS.WebServer.pdb
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\bin\Debug\net5.0\SIS.HTTP.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\bin\Debug\net5.0\SIS.HTTP.pdb
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.csproj.CopyComplete
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\ref\SIS.WebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Asynchronous Processing\SIS\SIS.WebServer\obj\Debug\net5.0\SIS.WebServer.pdb
