@@ -1,0 +1,12 @@
+﻿using CarShop.ViewModels.Cars;
+using CarShop.ViewModels.Users;
+using System.Collections.Generic;
+
+namespace CarShop.Services
+{
+    public interface IValidator
+    {
+        ICollection<string> ValidateUser(RegisterUserFormModel model);
+        ICollection<string> ValidateCar(CreateCarModel model);
+    }
+}

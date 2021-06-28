@@ -1,0 +1,12 @@
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\bin\Debug\net5.0\MyWebServer.deps.json
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\bin\Debug\net5.0\MyWebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\bin\Debug\net5.0\ref\MyWebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\bin\Debug\net5.0\MyWebServer.pdb
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.AssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\ref\MyWebServer.dll
+C:\Users\Georges\Desktop\CSharp-Web\Exams\CSharp-Web-Server-main\MyWebServer\obj\Debug\net5.0\MyWebServer.pdb
